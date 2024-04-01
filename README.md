@@ -1,4 +1,4 @@
-# Desafio-1
+# Landing-Page
 
 Este é o primeiro desafio proposto pela Escola DNC. Trata-se de uma Landing Page para uma empresa especializada em arquitetura.
 
